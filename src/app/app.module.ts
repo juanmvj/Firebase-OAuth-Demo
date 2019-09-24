@@ -11,7 +11,7 @@ import { SuperSecretComponent } from './super-secret/super-secret.component';
 
 
 const config = {
-  apiKey: "AIzaSyD9Pb2JzEsyUTQmMhJAIH_r671b81-lY-4",
+  apiKey: "{API_KEY}",
   authDomain: "e-donna.firebaseapp.com",
   databaseURL: "https://e-donna.firebaseio.com",
   projectId: "e-donna",
